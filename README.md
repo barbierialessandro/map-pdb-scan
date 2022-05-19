@@ -8,7 +8,7 @@ The dummy atoms in the OPM files will provide a reference point for checking the
 
 Example: PDB FILE (6qex)
 
-Version 1.0 May'22 - under development for ChimeraX .  EMAIL > barbierialessandro@hotmail.it with object "Mapdbslice"
+Version 0.8 May'22 - under development for ChimeraX .  EMAIL > barbierialessandro@hotmail.it with object "Mapdbslice"
 
 *(1) Pettersen EF, Goddard TD, Huang CC, Couch GS, Greenblatt DM, Meng EC, Ferrin TE. J Comput Chem. 2004 Oct;25(13):1605-12
 (2) A. Kucukelbir, F.J. Sigworth, and H.D. Tagare, Nature Methods. Volume 11, Issue 1, Pages 63-65, 2014.
