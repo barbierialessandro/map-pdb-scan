@@ -1,7 +1,7 @@
 # Map PDB Slice 
 Version 0.8 May'22 - under development - barbierialessandro@hotmail.it with object "Mapdbslice"
 
-Adaption of the UCSF Chimera *(1)* animation commands employed in **ResMap** *(2)* for a fast graphical evaluation of **membrane proteins along the z-axis**. 
+Minor Graphic script. Adaption of the UCSF Chimera *(1)* animation commands employed in **ResMap** *(2)* for a fast graphical evaluation of **membrane proteins along the z-axis**. 
 
 The script opens UCSF Chimera up and transforms the selected PDB file aligned along the z-axis (i.e. (OPM) database *(3)*) into a calculated density map using only the backbone atoms (*see molmap routine*). The map is scanned along the z-axis and individual trasversal sections at any desired point can be captured through the Volume Viewer panel (> Features > Planes). This method can be applied to snapshots of Molecular Dynamics Simulation for comparisons with the experimental atomic coordinates. 
 
